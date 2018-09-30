@@ -3,7 +3,7 @@ TypeScript Hello World Demo
 
 ```
 npm install
-npx ts-node hello.ts
+npm run demo
 ```
 
 It will print `Hello, TypeScript!`
